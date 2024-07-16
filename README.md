@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilraut05/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,10 +25,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/sahilraut05/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sahilraut05/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sahilraut05/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
