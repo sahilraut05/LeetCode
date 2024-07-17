@@ -35,8 +35,21 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sahilraut05/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
