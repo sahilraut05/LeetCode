@@ -35,6 +35,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/sahilraut05/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sahilraut05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/sahilraut05/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
