@@ -37,6 +37,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/sahilraut05/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/sahilraut05/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sahilraut05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
 ## Greedy
@@ -46,6 +47,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sahilraut05/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/sahilraut05/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sahilraut05/LeetCode/tree/master/0071-simplify-path) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sahilraut05/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
