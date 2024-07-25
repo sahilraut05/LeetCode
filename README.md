@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sahilraut05/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Design
 |  |
 | ------- |
@@ -69,4 +71,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahilraut05/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilraut05/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
