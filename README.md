@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahilraut05/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/sahilraut05/LeetCode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sahilraut05/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
