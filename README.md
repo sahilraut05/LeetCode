@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilraut05/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/sahilraut05/LeetCode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
