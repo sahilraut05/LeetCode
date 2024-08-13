@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/sahilraut05/LeetCode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [2727-number-of-senior-citizens](https://github.com/sahilraut05/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sahilraut05/LeetCode/tree/master/0071-simplify-path) |
+| [2727-number-of-senior-citizens](https://github.com/sahilraut05/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Queue
 |  |
 | ------- |
