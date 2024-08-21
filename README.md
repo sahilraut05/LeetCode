@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilraut05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahilraut05/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sahilraut05/LeetCode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/sahilraut05/LeetCode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilraut05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/sahilraut05/LeetCode/tree/master/0178-rank-scores) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sahilraut05/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
