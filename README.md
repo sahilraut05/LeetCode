@@ -106,6 +106,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/sahilraut05/LeetCode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/sahilraut05/LeetCode/tree/master/0178-rank-scores) |
 ## Binary Search
 |  |
