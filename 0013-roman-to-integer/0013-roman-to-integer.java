@@ -41,9 +41,7 @@ class Solution {
                 } else {
                     value += 1000;
                 }
-            } else {
-                return -1;
-            }
+            } 
         }
         return value;
     }
