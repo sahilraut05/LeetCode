@@ -38,6 +38,7 @@
 | [0011-container-with-most-water](https://github.com/sahilraut05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilraut05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahilraut05/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sahilraut05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sahilraut05/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilraut05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sahilraut05/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sahilraut05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/sahilraut05/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/sahilraut05/LeetCode/tree/master/0125-valid-palindrome) |
 | [2727-number-of-senior-citizens](https://github.com/sahilraut05/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Queue
 |  |
